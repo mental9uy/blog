@@ -6,5 +6,5 @@
 
 - `JAVA`入门系列 
 
-[GitHub](https://github.com/mental9uy/blog)
+[GitHub](https://github.com/mental9uy/blog/docs)
 [Get Started](#Spring)
